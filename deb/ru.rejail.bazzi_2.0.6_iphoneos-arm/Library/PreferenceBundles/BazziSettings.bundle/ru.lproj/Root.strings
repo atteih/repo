@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>% + Battery</key>
+	<string>% + батарея</string>
+	<key>Bar</key>
+	<string>Бар</string>
+	<key>Battery</key>
+	<string>Батарея</string>
+	<key>Battery + %</key>
+	<string>Батарея + %</string>
+	<key>Battery Style</key>
+	<string>Стиль батареи</string>
+	<key>Bold?</key>
+	<string>Жирный шрифт</string>
+	<key>Border</key>
+	<string>По контуру</string>
+	<key>Circle</key>
+	<string>Круг</string>
+	<key>Colored?</key>
+	<string>Окрашивание</string>
+	<key>Custom Color</key>
+	<string>Кастомный цвет</string>
+	<key>Default</key>
+	<string>По умолчанию</string>
+	<key>Enabled</key>
+	<string>Включено</string>
+	<key>Hide % Character?</key>
+	<string>Скрыть символ %</string>
+	<key>Hide Battery Icon</key>
+	<string>Скрыть иконку батареи</string>
+	<key>Hide Battery Icon %</key>
+	<string>Скрыть % в иконке батареи</string>
+	<key>Hide Control Center %</key>
+	<string>Скрыть % в ПУ</string>
+	<key>Line</key>
+	<string>Линия</string>
+	<key>Line Width / Pulse Duration / Pulse Width</key>
+	<string>Ширина линии / Длительность пульсирования / Ширина пульсирования</string>
+	<key>Notch</key>
+	<string>Бровь</string>
+	<key>Notch/Bar Settings</key>
+	<string>Настройки брови/бара</string>
+	<key>Other Settings</key>
+	<string>Дополнительные настройки</string>
+	<key>Percentage</key>
+	<string>Проценты</string>
+	<key>Pulse While Charging?</key>
+	<string>Пульсировать во время зарядки</string>
+	<key>Respring</key>
+	<string>Респринг</string>
+	<key>Respring to Enable/Disable</key>
+	<string>Респринг для включения/выключения</string>
+	<key>Respring to apply changes.</key>
+	<string>Респринг для применения настроек
+
+Перевод ReJail - rejail.ru</string>
+	<key>Use Custom Color?</key>
+	<string>Использовать кастомный цвет</string>
+</dict>
+</plist>
